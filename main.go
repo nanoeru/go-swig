@@ -1,7 +1,6 @@
 package main
 
-//import "github.com/krux02/swig-test/foo"
-import "swig-test-master/foo"
+import "github.com/nanoeru/go-swig/foo"
 import "fmt"
 
 func main() {
